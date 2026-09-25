@@ -16,7 +16,7 @@ Languages & Frameworks
 - JavaScript
 - HTML & CSS
 - Django
-- NestJS
+- Next.js
 
 Databases & Version Control
 
