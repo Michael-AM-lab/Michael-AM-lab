@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Michael
 
-<!--
-**Michael-AM-lab/Michael-AM-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a software developer, focused on building practical, well-designed solutions to real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I combine software engineering with product thinking and have a strong interest in how technology and business can work together to create useful, sustainable products.
+
+I'm continuously developing my technical skills while exploring new ways to use technology to solve problems within local communities and emerging markets.
+
+Technical Skills
+
+Languages & Frameworks
+
+- Python
+- JavaScript
+- HTML & CSS
+- Django
+- NestJS
+
+Databases & Version Control
+
+- MongoDB
+- Git
+- GitHub
+
+Development & Product
+
+- UI/UX Design
+- Product Design
+- Wireframing
+- Prototyping
+
+Tools I Work With
+
+- Visual Studio Code
+- Git
+- GitHub
+- Figma
+- Canva
+
+Goals
+
+- Become a highly skilled, well-rounded software developer
+- Build technology that solves real problems in my community
+- Combine software engineering with business to create sustainable products
+- Design, develop, and launch my own products
+- Continuously improve my technical and problem-solving abilities
+
+ Connect With Me
+
+- GitHub: [Michael-AM-lab](https://github.com/Michael-AM-lab)
